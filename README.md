@@ -1,1 +1,1 @@
-# integrity
+# example project
